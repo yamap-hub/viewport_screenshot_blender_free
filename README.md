@@ -1,4 +1,4 @@
-# 3D Viewport Screenshot (Free)
+# Viewport Screenshot (Free)
 
 Blenderの3Dビューポートを、メニューやサイドバーを一時的に非表示にした状態で綺麗に1枚保存できるアドオン（無料・お試し版）です。
 
@@ -22,6 +22,13 @@ Blenderの3Dビューポートを、メニューやサイドバーを一時的�
 - **3Dビューのサイドバー（Nキー）** > `Capture` タブから撮影・設定が可能です。
 - **3Dビュー上部ヘッダー** に追加されるカメラアイコンから、1クリックで即時撮影できます。
 - パネル内の言語切り替えオプション（またはBlender本体の言語設定）から、表示言語を日本語と英語で切り替えることができます。
+
+- ---
+## 💎 Blender版　Viewport Screenshot（製品版）
+不要なUIの自動非表示、クリップボード即時コピー（Ctrl+V）、全パネル撮影に対応バージョンをBOOTHにて公開中。
+
+👉 **[BOOTHで見る（Viewport Screenshot Pro）](https://yworks.booth.pm/items/9112055)**
+---
 
 ## 更新履歴
 - **v1.1.0**
