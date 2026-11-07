@@ -23,13 +23,6 @@ Blenderの3Dビューポートを、メニューやサイドバーを一時的�
 - **3Dビュー上部ヘッダー** に追加されるカメラアイコンから、1クリックで即時撮影できます。
 - パネル内の言語切り替えオプション（またはBlender本体の言語設定）から、表示言語を日本語と英語で切り替えることができます。
 
-- ---
-## 💎 Blender版　Viewport Screenshot（製品版）
-不要なUIの自動非表示、クリップボード即時コピー（Ctrl+V）、全パネル撮影に対応バージョンをBOOTHにて公開中。
-
-👉 **[BOOTHで見る（Viewport Screenshot Pro）](https://yworks.booth.pm/items/9112055)**
----
-
 ## 更新履歴
 - **v1.1.0**
   - 多言語対応：日本語および英語の表示切り替えに対応しました。
@@ -38,3 +31,10 @@ Blenderの3Dビューポートを、メニューやサイドバーを一時的�
 
 ## ライセンス
 MIT License
+
+---
+## 💎 製品版　Viewport Screenshot
+不要なUIの自動非表示、クリップボード即時コピー（Ctrl+V）、全パネル撮影に対応バージョンをBOOTHにて公開中。
+
+👉 **[BOOTHで見る（Viewport Screenshot Pro）](https://yworks.booth.pm/items/9112055)**
+---
