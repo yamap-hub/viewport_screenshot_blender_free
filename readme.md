@@ -3,9 +3,8 @@
 A lightweight Blender Python tool to capture the current 3D Viewport directly to your OS clipboard with a single click.
 
 No saving temporary image files, no manual cropping—just hit **Ctrl + V** anywhere (Discord, Slack, Notion, PureRef, Photoshop, etc.).
-
-> ⚡ **Looking for High-Res (2x/4K), Alpha Transparency, N-Panel UI & Custom Hotkeys?**  
-> Check out the **Pro Edition** on [Gumroad](https://mashitaya.gumroad.com/) or [BOOTH](https://yworks.booth.pm/).
+ 
+> Check out the **Pro Edition** on [Gumroad](https://mashitaya.gumroad.com/l/tdgmq/LAUNCH) or [BOOTH](https://yworks.booth.pm/items/9112055).
 
 ---
 
@@ -58,7 +57,7 @@ Since the Free Edition is provided as a standalone script (`viewport_screenshot_
 | Render Region / Camera Framing Lock | ❌ | ✅ |
 | Lifetime Updates & Priority Support | Community | ✅ Priority |
 
-👉 **Upgrade to Pro:** [Gumroad](https://mashitaya.gumroad.com/) | [BOOTH (国内向け)](https://yworks.booth.pm/)
+👉 **Upgrade to Pro:** [Gumroad](https://mashitaya.gumroad.com/l/tdgmq/LAUNCH) | [BOOTH (国内向け)](https://yworks.booth.pm/items/9112055)
 
 ---
 
@@ -76,8 +75,7 @@ Blenderの3Dビューポート画面を**ワンクリックで直接クリップ
 
 一時ファイルの保存やキャプチャ画像のトリミング作業をすることなく、そのまま Discord / Slack / Notion / PureRef / Photoshop 等へ **`Ctrl + V`** で即座に貼り付け可能です。
 
-> ⚡ **4K/2倍解像度キャプチャ・背景透過（アルファ切り抜き）・NパネルUI・ショートカット割当が必要な方へ**  
-> 多機能な **Pro版** は [BOOTH](https://yworks.booth.pm/) または [Gumroad](https://mashitaya.gumroad.com/) にて公開中です。
+> ⚡多機能な **Pro版** は [BOOTH](https://yworks.booth.pm/items/9112055) または [Gumroad](https://mashitaya.gumroad.com/l/tdgmq/LAUNCH) にて公開中です。
 
 ---
 
@@ -131,7 +129,7 @@ Blenderの3Dビューポート画面を**ワンクリックで直接クリップ
 | レンダリング枠・カメラ画角ロック | ❌ | ✅ |
 | アップデート＆優先サポート | コミュニティ | ✅ 優先対応 |
 
-👉 **Pro版はこちら:** [BOOTH（国内向け）](https://yworks.booth.pm/) | [Gumroad（海外向け）](https://mashitaya.gumroad.com/)
+👉 **Pro版はこちら:** [BOOTH（国内向け）](https://yworks.booth.pm/items/9112055) | [Gumroad（海外向け）](https://mashitaya.gumroad.com/l/tdgmq/LAUNCH)
 
 ---
 
