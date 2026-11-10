@@ -37,6 +37,6 @@ MIT License
 不要なUIの自動非表示、クリップボード即時コピー（Ctrl+V）、全パネル撮影に対応バージョンをGuroadとBOOTHにて公開中。
 
 👉 **[BOOTHで見る（Viewport Screenshot Pro）](https://yworks.booth.pm/items/9112055)**
-Gumroad：https://mashitaya.gumroad.com/l/tdgmq/LAUNCH　<期間限定セール中
+[Gumroad（Viewport Screenshot Pro）](https://mashitaya.gumroad.com/l/tdgmq/LAUNCH)<期間限定セール中]
 
 ---
