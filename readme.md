@@ -1,6 +1,6 @@
 # Viewport Screenshot for Blender (Free Edition)
 
-![Viewport Screenshot Transparent PNG Demo](demo_anim_blender_PNGTP_2.gif)
+![Viewport Screenshot Transparent PNG Demo](demo_anim_blender_PNGTP.gif)
 
 > **Capture clean Blender viewports in one click — no manual UI hiding or cropping required.**
 
